@@ -18,7 +18,7 @@
 ###
 
 # Money-based machines
-SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.UIData_PlaySlots,Cost.BaseValueScale,0,,10000.0
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.UIData_PlaySlots,Cost.BaseValueScale,0,,11000.0
 SparkLevelPatchEntry,(1,1,0,AtlasHQ_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.UIData_PlaySlots,Cost.BaseValueScale,0,,0.2
 SparkLevelPatchEntry,(1,1,0,OrbitalPlatform_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.UIData_PlaySlots,Cost.BaseValueScale,0,,0.2
 SparkLevelPatchEntry,(1,1,0,Mansion_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.UIData_PlaySlots,Cost.BaseValueScale,0,,0.2
