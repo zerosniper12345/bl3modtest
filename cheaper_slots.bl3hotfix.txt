@@ -18,7 +18,7 @@
 ###
 
 # Money-based machines
-SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.UIData_PlaySlots,Cost.BaseValueScale,0,,900000.0
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.UIData_PlaySlots,Cost.BaseValueScale,0,,90000.0
 SparkLevelPatchEntry,(1,1,0,AtlasHQ_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.UIData_PlaySlots,Cost.BaseValueScale,0,,0.2
 SparkLevelPatchEntry,(1,1,0,OrbitalPlatform_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.UIData_PlaySlots,Cost.BaseValueScale,0,,0.2
 SparkLevelPatchEntry,(1,1,0,Mansion_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.UIData_PlaySlots,Cost.BaseValueScale,0,,0.2
@@ -28,6 +28,6 @@ SparkLevelPatchEntry,(1,1,0,Bar_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.U
 SparkLevelPatchEntry,(1,1,0,Town_P),/Game/UI/InteractionPrompt/UIData_PlaySlots.UIData_PlaySlots,Cost.BaseValueScale,0,,0.2
 
 # Eridium-based machines
-SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_PlaySlotsEridium.UIData_PlaySlotsEridium,Cost.BaseValueScale,0,,900000.0
-SparkLevelPatchEntry,(1,1,0,Bar_P),/Game/UI/InteractionPrompt/UIData_PlaySlotsEridium.UIData_PlaySlotsEridium,Cost.BaseValueScale,0,,900000.0
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_PlaySlotsEridium.UIData_PlaySlotsEridium,Cost.BaseValueScale,0,,90000.0
+SparkLevelPatchEntry,(1,1,0,Bar_P),/Game/UI/InteractionPrompt/UIData_PlaySlotsEridium.UIData_PlaySlotsEridium,Cost.BaseValueScale,0,,90000.0
 
